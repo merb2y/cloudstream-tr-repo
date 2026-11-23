@@ -288,6 +288,22 @@
     "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
   },
   {
+    "internalName": "Dizigecesi",
+    "name": "Dizigecesi",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Dizigecesi.cs3",
+    "fileHash": "sha256-2ed313908117084454d2cc9209d844ffdc0253fbbd87db7fc531c350a8b72c4d",
+    "fileSize": 18193,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": ["merby"],
+    "description": "Dizigecesi - Yabancı Dizi ve Film İzleme Platformu",
+    "tvTypes": ["TvSeries", "Movie"],
+    "iconUrl": "https://dizigecesi.com/public/data/favicon.ico",
+    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+  },
+  {
     "internalName": "Dizigom",
     "name": "Dizigom",
     "version": 2,
@@ -448,6 +464,22 @@
     "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
   },
   {
+    "internalName": "FilmEkseni",
+    "name": "FilmEkseni",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/FilmEkseni.cs3",
+    "fileHash": "sha256-4734fa9a39a8298d4ebb525242e955384ca7ca7be47706d71125bce9f6d79154",
+    "fileSize": 19666,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": ["merby"],
+    "description": "FilmEkseni - 1080p Türkçe Dublaj ve Altyazılı Film İzleme Platformu",
+    "tvTypes": ["Movie"],
+    "iconUrl": "https://filmekseni.pro/filmekseni/images/favicon.ico",
+    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+  },
+  {
     "internalName": "FilmMakinesi",
     "name": "FilmMakinesi",
     "version": 1062,
@@ -541,6 +573,22 @@
     "description": "HDFilmCehennemi - TÃ¼rkiye'nin en bÃ¼yÃ¼k 1080p Full HD film ve dizi platformu",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
+    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+  },
+  {
+    "internalName": "HDFilmDelisi",
+    "name": "HDFilmDelisi",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/HDFilmDelisi.cs3",
+    "fileHash": "sha256-aa07e1ac7bbec40efd6944241ed8f9699287e20c49b5b87ff2da504fdf855186",
+    "fileSize": 19541,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": ["merby"],
+    "description": "HDFilmDelisi - 1080p Türkçe Dublaj & Altyazılı Film ve Yabancı Dizi İzleme Platformu",
+    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": "https://hdfilmdelisi1.com/favicon.ico",
     "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
   },
   {
@@ -685,6 +733,22 @@
     "description": "GÃ¼ney Kore sevdalÄ±larÄ±nÄ±n vazgeÃ§emediÄŸi ve TÃ¼rkiye'nin en Ã§ok ziyaret edilen GÃ¼ney Kore PortalÄ±; KoreantÃ¼rk'e hoÅŸgeldiniz!",
     "tvTypes": ["AsianDrama", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.tv&sz=%size%",
+    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+  },
+  {
+    "internalName": "KralSporHD",
+    "name": "KralSporHD",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/KralSporHD.cs3",
+    "fileHash": "sha256-ef6bfaef2828468a61e972dad8968e4a9bf63f338a6c228dcc5ab2fb9e4d656a",
+    "fileSize": 13529,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": ["merby"],
+    "description": "KralSporHD - Güncel Andro/CDN Kaynaklı beIN Sports 1-5, Max 1-2, S Sport, Tivibu, Smart Spor ve Tabii Spor",
+    "tvTypes": ["Live"],
+    "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein1.png",
     "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
   },
   {
@@ -944,6 +1008,22 @@
     "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
   },
   {
+    "internalName": "TRTCanli",
+    "name": "TRTCanli",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/TRTCanli.cs3",
+    "fileHash": "sha256-45944ab2962a580fc5483dda09d74c5216be368f3abca6814519a5eb9948e169",
+    "fileSize": 10183,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": ["merby"],
+    "description": "TRT Canlı - Resmi TRT 1, TRT 2, TRT Spor, TRT Spor Yıldız, TRT Haber, TRT Belgesel, TRT Çocuk ve Diğer TRT Kanalları",
+    "tvTypes": ["Live"],
+    "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/trtspor.png",
+    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+  },
+  {
     "internalName": "TurkDizi",
     "name": "TurkDizi",
     "version": 1002,
@@ -1069,6 +1149,22 @@
     "description": "YesilCamTv — Türkçe içerik (autopilot)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=%size%",
+    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+  },
+  {
+    "internalName": "ZirveSpor",
+    "name": "ZirveSpor",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/ZirveSpor.cs3",
+    "fileHash": "sha256-65d61fbc420d2ee096361640639822b650ec7ca8d23dbaab16a91f83530ea916",
+    "fileSize": 16915,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": ["merby"],
+    "description": "ZirveSpor - Canlı beIN Sports 1-5, Max 1-2, S Sport, Tivibu Spor, Smart Spor ve Günlük Maç Yayınları",
+    "tvTypes": ["Live"],
+    "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein1.png",
     "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
   }
 ]
