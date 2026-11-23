@@ -3,7 +3,7 @@
     "internalName": "AcikTV",
     "name": "AcikTV",
     "version": 1002,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/AcikTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/AcikTV.cs3",
     "fileHash": "sha256-9fb997192ca334f1acb21124cb193a2544f918e84bcbe3f4f3b8c0d3f38e1a06",
     "fileSize": 22034,
     "status": 1,
@@ -13,13 +13,13 @@
     "description": "Açık TV - iptv-org Türkiye kanal listesi (172 kanal)",
     "tvTypes": ["Live"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=iptv-org.github.io&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "AnimeciX",
     "name": "AnimeciX",
     "version": 1022,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/AnimeciX.cs3",
     "fileHash": "sha256-a73d5be3b0c613f4096e4b36bca95ae9f8d855dd02f8fc84a5076dcf8f9aa2fd",
     "fileSize": 27095,
     "status": 1,
@@ -29,13 +29,13 @@
     "description": "AnimeciX, animeleri keÅŸfedebileceÄŸiniz ve animeler hakkÄ±nda her ÅŸeyi Ã¶ÄŸrenebileceÄŸiniz bir paylaÅŸÄ±m platformudur.",
     "tvTypes": ["Anime"],
     "iconUrl": "https://animecix.tv/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Anizium",
     "name": "Anizium",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Anizium.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Anizium.cs3",
     "fileHash": "sha256-0d6dc68d6791c5990cf0f6d6de1076da10f08bcde7417f245ad53ea611ff333e",
     "fileSize": 26427,
     "status": 1,
@@ -45,13 +45,13 @@
     "description": "Anizium — 4K Türkçe dublaj & altyazılı anime (anizium.co)",
     "tvTypes": ["Anime", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=anizium.co&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Anizm",
     "name": "Anizm",
     "version": 9,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Anizm.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Anizm.cs3",
     "fileHash": "sha256-894a83a74d0521869ef4c077b0b7faeb21a25c1cf67ab1949c4c91440557ea90",
     "fileSize": 30569,
     "status": 1,
@@ -61,13 +61,13 @@
     "description": "Anizm — Türkçe altyazılı anime izle (turkanime.info)",
     "tvTypes": ["Anime"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=turkanime.info&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "ArdaSpor",
     "name": "ArdaSpor",
     "version": 1003,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/ArdaSpor.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/ArdaSpor.cs3",
     "fileHash": "sha256-262b8be867e1132c954904496e20f9163a7e58b155057fcd832bf7e25194b0af",
     "fileSize": 18921,
     "status": 1,
@@ -77,13 +77,13 @@
     "description": "ArdaSpor - ArdaSpor & WioSpor çoklu sunucu altyapısıyla beIN Sports 1-5, Max 1-2, S Sport 1-2, Tivibu Spor, Smart Spor canlı maç yayınları",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "AsyaWatch",
     "name": "AsyaWatch",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/AsyaWatch.cs3",
     "fileHash": "sha256-13bbaa1aa31f67725b0d2df618153068ad42716d085b2302787d29b61b3611db",
     "fileSize": 26471,
     "status": 1,
@@ -93,13 +93,13 @@
     "description": "AsyaWatch — Kore ve Asya web dramaları, Türkçe altyazılı (asyawatch.com)",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "AtomSpor",
     "name": "AtomSpor",
     "version": 1004,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/AtomSpor.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/AtomSpor.cs3",
     "fileHash": "sha256-98834fae6cada402068a9c95973a5e3cd1806be3cddc077962b2ddaf84481130",
     "fileSize": 19162,
     "status": 1,
@@ -109,13 +109,13 @@
     "description": "AtomSpor - TeleTV & MahsunSports çoklu sunucu altyapısıyla beIN Sports 1-5, S Sport 1-2, Tivibu Spor canlı maç yayınları",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "BelgeselTV",
     "name": "BelgeselTV",
     "version": 3,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/BelgeselTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/BelgeselTV.cs3",
     "fileHash": "sha256-f035ac3d91b6a2dbb22533b233ec6c319405d3e797e7695bd86656143ce2bec1",
     "fileSize": 9448,
     "status": 1,
@@ -125,13 +125,13 @@
     "description": "BelgeselTV - Kesintisiz Belgesel, Kültür ve Müzik Kanalları (TRT Belgesel, TRT Müzik, TRT Avaz, Meclis TV)",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/trtbelgesel.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "BelgeselX",
     "name": "BelgeselX",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/BelgeselX.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/BelgeselX.cs3",
     "fileHash": "sha256-619c0b537595da379bb742afaf9e0f121a35a3202b2b0d36ce651857ee088a59",
     "fileSize": 34325,
     "status": 1,
@@ -141,13 +141,13 @@
     "description": "BelgeselX — Türkçe belgesel arşivi (belgeselx.com)",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "BeyazElma",
     "name": "BeyazElma",
     "version": 1004,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/BeyazElma.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/BeyazElma.cs3",
     "fileHash": "sha256-101c58c2e2bbf4d60d7355c08186e69e9a780e24d1cabdfddc5973dd96adaab8",
     "fileSize": 19173,
     "status": 1,
@@ -157,13 +157,13 @@
     "description": "BeyazElma - Çift Edge sunuculu (Edge-1 & Edge-2) ve çoklu yedekli beIN Sports 1-5, Max, S Sport, Tivibu Spor, Tabii Spor canlı yayınları",
     "tvTypes": ["Live"],
     "iconUrl": "https://beyazelma78.com/applewhite-logo.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "CanliTV",
     "name": "CanliTV",
     "version": 1012,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/CanliTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/CanliTV.cs3",
     "fileHash": "sha256-e127062c81bf34dd70186f2eefd10f24b520311035f878248ac6e7377db4b3cd",
     "fileSize": 21439,
     "status": 1,
@@ -173,13 +173,13 @@
     "description": "Canlı TV",
     "tvTypes": ["Live"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "CanliYayinKanallari",
     "name": "CanliYayinKanallari",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/CanliYayinKanallari.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/CanliYayinKanallari.cs3",
     "fileHash": "sha256-bd796121bbd9bc30350a06c8505e4a95e70206667df8c1c897115ed905e628ff",
     "fileSize": 14208,
     "status": 1,
@@ -189,13 +189,13 @@
     "description": "CanliYayinKanallari — Türkçe canlı TV (seçilmiş HLS)",
     "tvTypes": ["Live"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "CineCat",
     "name": "CineCat",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/CineCat.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/CineCat.cs3",
     "fileHash": "sha256-7582c0d67f1151ecaacd8764fd008751cc75660d1acc0abeccb2d5494eaceb4a",
     "fileSize": 824651,
     "status": 1,
@@ -205,13 +205,13 @@
     "description": "CineCat - Yuksek kaliteli 1080p yerli ve yabanci film arsivi",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinecat.eu&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Ddizi",
     "name": "Ddizi",
     "version": 1026,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Ddizi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Ddizi.cs3",
     "fileHash": "sha256-e396d3c2bd64beb7e0785a5f13c48a851bf74165b32712593b96cd07fefff987",
     "fileSize": 20164,
     "status": 1,
@@ -221,13 +221,13 @@
     "description": "DDizi.im iÃ§in Cloudstream eklentisi",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.ddizi.im/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DDizimag",
     "name": "DDizimag",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DDizimag.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DDizimag.cs3",
     "fileHash": "sha256-7ce9dbe30d317931f189f9dc2493a436223b89993c82489a2939da53318e234e",
     "fileSize": 29818,
     "status": 1,
@@ -237,13 +237,13 @@
     "description": "DDizimag — Türkçe içerik (autopilot)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=ddizimag.icu&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziBal",
     "name": "DiziBal",
     "version": 1002,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziBal.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziBal.cs3",
     "fileHash": "sha256-bf47c1e9c7e938c10ecdab35fdc2b8933a0ee0997270ac5d7dae26a4e72d293b",
     "fileSize": 25813,
     "status": 1,
@@ -253,13 +253,13 @@
     "description": "dizibaL â€” online dizi arÅŸivi, altyazÄ±lÄ± yabancÄ± diziler",
     "tvTypes": ["TvSeries", "Movie", "Anime"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizibal.org&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziBox",
     "name": "DiziBox",
     "version": 1031,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziBox.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziBox.cs3",
     "fileHash": "sha256-32262d6b6a16cc7ad7869b08369b105a160073537966a4ced06366427bce2c89",
     "fileSize": 46061,
     "status": 1,
@@ -269,13 +269,13 @@
     "description": "DiziBox - 4800+ yabancı dizi, optimize edilmiş ultra hızlı yükleme ve sezon ayrımı",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziBoxTv",
     "name": "DiziBoxTv",
     "version": 3,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziBoxTv.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziBoxTv.cs3",
     "fileHash": "sha256-1d4140b201c4b278f1b8f40b1eac6b94a9f9a6c358fabfbfbdfa322c5dae1a1b",
     "fileSize": 35110,
     "status": 1,
@@ -285,13 +285,13 @@
     "description": "DiziBoxTv — Türkçe içerik (autopilot)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxtv.com&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Dizigecesi",
     "name": "Dizigecesi",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Dizigecesi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Dizigecesi.cs3",
     "fileHash": "sha256-2ed313908117084454d2cc9209d844ffdc0253fbbd87db7fc531c350a8b72c4d",
     "fileSize": 18193,
     "status": 1,
@@ -301,13 +301,13 @@
     "description": "Dizigecesi - Yabancı Dizi ve Film İzleme Platformu",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://dizigecesi.com/public/data/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Dizigom",
     "name": "Dizigom",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Dizigom.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Dizigom.cs3",
     "fileHash": "sha256-6a0df8a6822d75a438b16c2b469696cf5acadf85ad6368cd90b54d77589f7d87",
     "fileSize": 30342,
     "status": 1,
@@ -317,13 +317,13 @@
     "description": "Dizigom — Türkçe içerik (autopilot)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom.news&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Dizilla",
     "name": "Dizilla",
     "version": 10,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Dizilla.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Dizilla.cs3",
     "fileHash": "sha256-c64e8a80abe3e17346c8b036d427ffddb8f9ace0b2703f57d6fc6cf27ffe3f5f",
     "fileSize": 32317,
     "status": 1,
@@ -333,13 +333,13 @@
     "description": "Dizilla — yabancı dizi izle (dizilla.nl mirror'ı)",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.nl&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziMom",
     "name": "DiziMom",
     "version": 10,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziMom.cs3",
     "fileHash": "sha256-afbd12a90c2774761523ae6cf5419943cdb3cc6909b754bf09f2c53ad7bf44c3",
     "fileSize": 133199,
     "status": 1,
@@ -349,13 +349,13 @@
     "description": "DiziMom - Popüler yabancı diziler ve hızlı altyazı desteği",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziPal",
     "name": "DiziPal",
     "version": 1121,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziPal.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziPal.cs3",
     "fileHash": "sha256-1ed25e263af83141720bcca3414fb5fc73065fe33034d780ab9e4c5307f10894",
     "fileSize": 44990,
     "status": 1,
@@ -365,13 +365,13 @@
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziPod",
     "name": "DiziPod",
     "version": 1004,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziPod.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziPod.cs3",
     "fileHash": "sha256-d0e2b8d9f42d82fe444f18734f57feaff316b6dd83a63dae0bc07db2a26b8042",
     "fileSize": 23682,
     "status": 1,
@@ -381,13 +381,13 @@
     "description": "YabancÄ± dizi ve film izleme platformu. AltyazÄ±lÄ± yabancÄ± dizi ve film izle.",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziRella",
     "name": "DiziRella",
     "version": 8,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziRella.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziRella.cs3",
     "fileHash": "sha256-5f05407d696ad4d979ee2a448de6e44be3ad6178e1eb86bd47a09c04aa96d610",
     "fileSize": 342781,
     "status": 1,
@@ -397,13 +397,13 @@
     "description": "DiziRella - Guncel yabanci dizi ve bolumler (1080p M3U8)",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DiziYou",
     "name": "DiziYou",
     "version": 1029,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DiziYou.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziYou.cs3",
     "fileHash": "sha256-8056c3e7b17d630fc4fbe5d43f28e9333ef2e455b32832cbc640629540fccc22",
     "fileSize": 15258,
     "status": 1,
@@ -413,13 +413,13 @@
     "description": "DiziYou - 1150+ dizi ve doÄŸrudan 1080p M3U8 hÄ±zlÄ± oynatÄ±cÄ±",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DMax",
     "name": "DMax",
     "version": 1003,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DMax.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DMax.cs3",
     "fileHash": "sha256-6dc17c9cd8d9e35694e9c0c652dc11e7758b5ab2caa261857f1600aa3e27ef95",
     "fileSize": 13695,
     "status": 1,
@@ -429,13 +429,13 @@
     "description": "DMAX dizi ve programlarÄ±nÄ± takip etmek iÃ§in ziyaret edin. DMAX dizi ve programlarÄ±nÄ± tek parÃ§a ve hd kalitesiyle izleyin.",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.dmax.com.tr/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DomatesTV",
     "name": "DomatesTV",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DomatesTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DomatesTV.cs3",
     "fileHash": "sha256-7975b9796cfe7ecef69ee3de6649f9dd13a137db5a00b1a6b595f12ec61abcd4",
     "fileSize": 20643,
     "status": 1,
@@ -445,13 +445,13 @@
     "description": "Domates TV & ArdaSpor - Kesintisiz HÄ±zlÄ± beIN Sports ve CanlÄ± MaÃ§ YayÄ±nlarÄ±",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein4.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "DunyaTV",
     "name": "DunyaTV",
     "version": 1002,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/DunyaTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DunyaTV.cs3",
     "fileHash": "sha256-0614ebf117a767651ba92217fed316abafaf0b941b3be8169157dbf1c9c22d50",
     "fileSize": 22035,
     "status": 1,
@@ -461,13 +461,13 @@
     "description": "Dünya TV - Türkçe yayın yapan uluslararası kanallar (iptv-org)",
     "tvTypes": ["Live"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=iptv-org.github.io&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "FilmEkseni",
     "name": "FilmEkseni",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/FilmEkseni.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/FilmEkseni.cs3",
     "fileHash": "sha256-4734fa9a39a8298d4ebb525242e955384ca7ca7be47706d71125bce9f6d79154",
     "fileSize": 19666,
     "status": 1,
@@ -477,13 +477,13 @@
     "description": "FilmEkseni - 1080p Türkçe Dublaj ve Altyazılı Film İzleme Platformu",
     "tvTypes": ["Movie"],
     "iconUrl": "https://filmekseni.pro/filmekseni/images/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "FilmMakinesi",
     "name": "FilmMakinesi",
     "version": 1062,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/FilmMakinesi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/FilmMakinesi.cs3",
     "fileHash": "sha256-a0ea09ed3f5f65a2b806774559037262f6acaf230231e0c375107239d4157593",
     "fileSize": 47182,
     "status": 1,
@@ -493,13 +493,13 @@
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "FilmModu",
     "name": "FilmModu",
     "version": 1020,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/FilmModu.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/FilmModu.cs3",
     "fileHash": "sha256-8e1030922159f9f0aa514bfb1245c7029a37dc2edf612ab4ecadcf254709e50e",
     "fileSize": 15764,
     "status": 1,
@@ -509,13 +509,13 @@
     "description": "Film modun geldiyse yÃ¼ksek kalitede en yeni filmleri izle, 1080p izleyebileceÄŸiniz reklamsiz film sitesi.",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "FullHDFilm",
     "name": "FullHDFilm",
     "version": 1037,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/FullHDFilm.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/FullHDFilm.cs3",
     "fileHash": "sha256-5d4cb12dddb497d327536aca68adb0d3dbd800b3acb63dcc0fdaf80762b0e2d7",
     "fileSize": 25624,
     "status": 1,
@@ -525,13 +525,13 @@
     "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Ã–zgÃ¼n film arÅŸivimizle en Ã¼stÃ¼n kaliteli film izle keyfini sunuyoruz.",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "FullHDFilmizlesene",
     "name": "FullHDFilmizlesene",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/FullHDFilmizlesene.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/FullHDFilmizlesene.cs3",
     "fileHash": "sha256-d6258c45dc697475a699ffc3c032658980921cd353a0f21ba67f1ea9ec0b67b8",
     "fileSize": 26568,
     "status": 1,
@@ -541,13 +541,13 @@
     "description": "FullHDFilmizlesene — fullhdfilmizlesene.now (Türkçe dublaj/altyazılı film arşivi)",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "HaberTV",
     "name": "HaberTV",
     "version": 3,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/HaberTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/HaberTV.cs3",
     "fileHash": "sha256-43ce71e0d40b3c6ea9bbf732e310f13bd5099395b5686a834ade6bf5c7743f56",
     "fileSize": 9451,
     "status": 1,
@@ -557,13 +557,13 @@
     "description": "HaberTV - Kesintisiz Canlı Haber Kanalları (HaberTürk TV, Haber Global, TV24, TRT Haber)",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/haberturk.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "HDFilmCehennemi",
     "name": "HDFilmCehennemi",
     "version": 1060,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/HDFilmCehennemi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/HDFilmCehennemi.cs3",
     "fileHash": "sha256-866c75254c38d538efc9a9f20de93e470a4789fc21781f13899f7fe857fa183c",
     "fileSize": 49669,
     "status": 1,
@@ -573,13 +573,13 @@
     "description": "HDFilmCehennemi - TÃ¼rkiye'nin en bÃ¼yÃ¼k 1080p Full HD film ve dizi platformu",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "HDFilmDelisi",
     "name": "HDFilmDelisi",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/HDFilmDelisi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/HDFilmDelisi.cs3",
     "fileHash": "sha256-aa07e1ac7bbec40efd6944241ed8f9699287e20c49b5b87ff2da504fdf855186",
     "fileSize": 19541,
     "status": 1,
@@ -589,13 +589,13 @@
     "description": "HDFilmDelisi - 1080p Türkçe Dublaj & Altyazılı Film ve Yabancı Dizi İzleme Platformu",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://hdfilmdelisi1.com/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "HDFilmizle",
     "name": "HDFilmizle",
     "version": 6,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/HDFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/HDFilmizle.cs3",
     "fileHash": "sha256-403f02609e4d556a011e76b5551e6e7b5567a7f685cfc55517490c0c4454738d",
     "fileSize": 38025,
     "status": 1,
@@ -605,13 +605,13 @@
     "description": "HDFilmizle — Full HD film ve yabancı dizi arşivi (hdfilmizle.ink)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "InatDisney",
     "name": "InatDisney",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/InatDisney.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/InatDisney.cs3",
     "fileHash": "sha256-97627dae0a443e90c3abacd70deb7c3337ec96f355bdb14d2f026a6fbbe6d9f4",
     "fileSize": 62019,
     "status": 1,
@@ -621,13 +621,13 @@
     "description": "Inat Baks — Disney+ (yayin platformlari, imzalı Inat API)",
     "tvTypes": ["Live", "Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxen.help&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "InatGain",
     "name": "InatGain",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/InatGain.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/InatGain.cs3",
     "fileHash": "sha256-998af7a8d1fd949caad0b6f5530dad127c3022a858a52788af6924e1a54b3492",
     "fileSize": 61997,
     "status": 1,
@@ -637,13 +637,13 @@
     "description": "Inat Baks — Gain (yayin platformlari, imzalı Inat API)",
     "tvTypes": ["Live", "Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxen.help&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "InatHboMax",
     "name": "InatHboMax",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/InatHboMax.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/InatHboMax.cs3",
     "fileHash": "sha256-c672a795e4f4702e7195f36e5a745f37cba7e65160908171583363b68a0f1e1d",
     "fileSize": 62011,
     "status": 1,
@@ -653,13 +653,13 @@
     "description": "Inat Baks — HBO Max - (BLUTV) (yayin platformlari, imzalı Inat API)",
     "tvTypes": ["Live", "Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxen.help&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "InatNetflix",
     "name": "InatNetflix",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/InatNetflix.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/InatNetflix.cs3",
     "fileHash": "sha256-fce0a18338fdb50d5402fb9cd456accb95caa88a10056f4ab2b761457a41e148",
     "fileSize": 62007,
     "status": 1,
@@ -669,13 +669,13 @@
     "description": "Inat Baks — Netflix (yayin platformlari, imzalı Inat API)",
     "tvTypes": ["Live", "Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxen.help&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "InatYerliFilmler",
     "name": "InatYerliFilmler",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/InatYerliFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/InatYerliFilmler.cs3",
     "fileHash": "sha256-5119125c48dcf660082091f626be0660398c6dae5a9d8cab62e458d1fad82c42",
     "fileSize": 61958,
     "status": 1,
@@ -685,13 +685,13 @@
     "description": "Inat Baks — Yerli Filmler (si̇nema & fi̇lmler, imzalı Inat API)",
     "tvTypes": ["Live", "Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxen.help&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "InterSporTV",
     "name": "InterSporTV",
     "version": 1004,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/InterSporTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/InterSporTV.cs3",
     "fileHash": "sha256-191d9bc25a6c09334199c28aefc8367c0ffd6bb9c5bd5536ec06f8bb8f1fc80f",
     "fileSize": 19120,
     "status": 1,
@@ -701,13 +701,13 @@
     "description": "İnterSporTV - Cloudflare CDN destekli kesintisiz beIN Sports 1-5, Max 1-2, S Sport, Tivibu Spor, Smart Spor canlı yayınları",
     "tvTypes": ["Live"],
     "iconUrl": "https://intersportv1.live/storage/logo/a050c502a12f3d2cfea54795485e0fa6.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "JetFilmizle",
     "name": "JetFilmizle",
     "version": 6,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/JetFilmizle.cs3",
     "fileHash": "sha256-cfadbb021f0921c64d65d0b892b22dc8d490b3a87fa2692019cc934e76fd461e",
     "fileSize": 39799,
     "status": 1,
@@ -717,13 +717,13 @@
     "description": "JetFilmizle — Türkçe dublaj/altyazılı film izle (jetfilmizle.app)",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.app&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "KoreanTurk",
     "name": "KoreanTurk",
     "version": 1007,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/KoreanTurk.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/KoreanTurk.cs3",
     "fileHash": "sha256-46fd78e66991d51e02aab8607ae4f0173390711bfa7b57994353cc52cddeacf3",
     "fileSize": 20225,
     "status": 1,
@@ -733,13 +733,13 @@
     "description": "GÃ¼ney Kore sevdalÄ±larÄ±nÄ±n vazgeÃ§emediÄŸi ve TÃ¼rkiye'nin en Ã§ok ziyaret edilen GÃ¼ney Kore PortalÄ±; KoreantÃ¼rk'e hoÅŸgeldiniz!",
     "tvTypes": ["AsianDrama", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.tv&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "KralSporHD",
     "name": "KralSporHD",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/KralSporHD.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/KralSporHD.cs3",
     "fileHash": "sha256-ef6bfaef2828468a61e972dad8968e4a9bf63f338a6c228dcc5ab2fb9e4d656a",
     "fileSize": 13529,
     "status": 1,
@@ -749,13 +749,13 @@
     "description": "KralSporHD - Güncel Andro/CDN Kaynaklı beIN Sports 1-5, Max 1-2, S Sport, Tivibu, Smart Spor ve Tabii Spor",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein1.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "KultFilmler",
     "name": "KultFilmler",
     "version": 1017,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/KultFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/KultFilmler.cs3",
     "fileHash": "sha256-5f22872f6af9ab5d090f6e86fc4cf8639ed5fcdad803e0baba0b23292998821c",
     "fileSize": 25623,
     "status": 1,
@@ -765,13 +765,13 @@
     "description": "KÃ¼lt Filmler Ã¶zenle en iyi filmleri derler ve iyi bir altyazÄ±lÄ± film izleme deneyimi sunmayÄ± amaÃ§lar",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "MahsunSports",
     "name": "MahsunSports",
     "version": 1003,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/MahsunSports.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/MahsunSports.cs3",
     "fileHash": "sha256-9d5346a17b2a64c61625843f933e60c52ceb2ee34ecc33ab64c2b2e951f02aca",
     "fileSize": 19234,
     "status": 1,
@@ -781,13 +781,13 @@
     "description": "MahsunSports - MahsunSports çoklu sunucu altyapısıyla beIN Sports 1-5, Max 1-2, S Sport 1-2, Tivibu Spor, Smart Spor canlı maç yayınları",
     "tvTypes": ["Live"],
     "iconUrl": "https://mahsunsports55.xyz/favicon.ico",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "MinikaGO",
     "name": "MinikaGO",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/MinikaGO.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/MinikaGO.cs3",
     "fileHash": "sha256-c2e7977586f3e4262861e824dad68394fe20d2ce448590bd3e018641a2755129",
     "fileSize": 19754,
     "status": 1,
@@ -797,13 +797,13 @@
     "description": "MinikaGO — çocuk dizileri ve bölümleri (MP4)",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "NetSpor",
     "name": "NetSpor",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/NetSpor.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/NetSpor.cs3",
     "fileHash": "sha256-619719ae517c09a02042025870847ef7defd8f881d82e7f4b0a33a20117058e5",
     "fileSize": 20647,
     "status": 1,
@@ -813,13 +813,13 @@
     "description": "NetSpor & MahsunSports - 1080p beIN Sports 1-5 ve CanlÄ± Spor YayÄ±nlarÄ±",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein3.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Onepacetr",
     "name": "Onepacetr",
     "version": 6,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Onepacetr.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Onepacetr.cs3",
     "fileHash": "sha256-c8758c5de22e40e9e4fe8a62bfeb590d3b19a1a59b8f8db0fa34ad7c75b065d7",
     "fileSize": 22771,
     "status": 1,
@@ -829,13 +829,13 @@
     "description": "One Pace TR — One Piece fan edit, Türkçe altyazılı (onepacetr.net)",
     "tvTypes": ["Anime"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=onepacetr.net&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "SelcukFlix",
     "name": "SelcukFlix",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/SelcukFlix.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/SelcukFlix.cs3",
     "fileHash": "sha256-6c0fe1b32deaf4b58d79e1a45c1ff8777b1f75079609e8ea4f274e0a86601f30",
     "fileSize": 35315,
     "status": 1,
@@ -845,13 +845,13 @@
     "description": "Selcukflix — Türkçe dublaj & altyazılı film ve dizi arşivi (selcukflix.app)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.app&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "SelcukSporLive",
     "name": "SelcukSporLive",
     "version": 1003,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/SelcukSporLive.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/SelcukSporLive.cs3",
     "fileHash": "sha256-748bb504db2a57b4fe7a3a2e205b63fc4e2ce69915db65bc8b98d1e6c9bf8176",
     "fileSize": 20041,
     "status": 1,
@@ -861,13 +861,13 @@
     "description": "SporExtra - Domates/PatronSkor + MahsunSports çoklu sunucu ile beIN Sports 1-5, S Sport 1-2, Tivibu Spor 1-3, Smart Spor, Tabii Spor canlı maç yayınları",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein1.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "SelcukSports",
     "name": "SelcukSports",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/SelcukSports.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/SelcukSports.cs3",
     "fileHash": "sha256-03a1f3384fbd669fa3234ee42c767496b7454bac60011aae7de682026fff9035",
     "fileSize": 20662,
     "status": 1,
@@ -877,13 +877,13 @@
     "description": "SelÃ§ukSports - CanlÄ± beIN Sports 1-5, S Sport, Tivibu, Smart Spor ve Kesintisiz MaÃ§ YayÄ±nlarÄ±",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein1.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "SetFilmIzle",
     "name": "SetFilmIzle",
     "version": 6,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/SetFilmIzle.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/SetFilmIzle.cs3",
     "fileHash": "sha256-2603a99bfbfe2c6d1fcef2e537ae798c406183b7dcac8b745c3441424b2c1363",
     "fileSize": 32282,
     "status": 1,
@@ -893,13 +893,13 @@
     "description": "SetFilmIzle — Türkçe dublaj & altyazılı film ve dizi arşivi (setfilmizle.ltd)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=setfilmizle.ltd&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Sezonlukdizi",
     "name": "Sezonlukdizi",
     "version": 7,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Sezonlukdizi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Sezonlukdizi.cs3",
     "fileHash": "sha256-16f468c490df69d0af2f905d8a89568e8042e26ab21c27b64f7b14fab5d956c9",
     "fileSize": 42959,
     "status": 1,
@@ -909,13 +909,13 @@
     "description": "SezonlukDizi — yabancı dizi izle (sezonlukdizi.cc)",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "ShowTV",
     "name": "ShowTV",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/ShowTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/ShowTV.cs3",
     "fileHash": "sha256-da10b06f8f0083c593f7e6e1d885d6493a9e6bf113baaba59d2f902c892f9c23",
     "fileSize": 20783,
     "status": 1,
@@ -925,13 +925,13 @@
     "description": "Show TV — dizi ve program bölümleri",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=showtv.com.tr&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "SinemaCX",
     "name": "SinemaCX",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/SinemaCX.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/SinemaCX.cs3",
     "fileHash": "sha256-9bf907719abda768387e61995cb71188f86a3a68713b21b40d32c2781fcc21b1",
     "fileSize": 25817,
     "status": 1,
@@ -941,13 +941,13 @@
     "description": "SinemaCX — Türkçe dublaj & altyazılı film arşivi (sinemacc.com)",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemacc.com&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "SporTV",
     "name": "SporTV",
     "version": 7,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/SporTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/SporTV.cs3",
     "fileHash": "sha256-0d9a5ab761d2c42a3a74faaea6e8682133945634c1741d31667c4c8fbdcbd6ce",
     "fileSize": 20640,
     "status": 1,
@@ -957,13 +957,13 @@
     "description": "SporTV - Kesintisiz Canlı Spor Kanalları (beIN Sports 1-5, S Sport 1-2, Tivibu, Smart, Tabii, TRT Spor, A Spor)",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/wspor.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "StarTV",
     "name": "StarTV",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/StarTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/StarTV.cs3",
     "fileHash": "sha256-cd2f38eeb340a65318a59c9da080c8c233aa0a9a572022158241242471e5d2da",
     "fileSize": 23239,
     "status": 1,
@@ -973,13 +973,13 @@
     "description": "StarTV — Yalı Çapkını ve diğer dizilerin bölümleri",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=startv.com.tr&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Taraftarium24",
     "name": "Taraftarium24",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Taraftarium24.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Taraftarium24.cs3",
     "fileHash": "sha256-bef8dc2419eecfc78aaaaaa92a894951cc6121aab484639e31329a6379a0424a",
     "fileSize": 20670,
     "status": 1,
@@ -989,13 +989,13 @@
     "description": "Taraftarium24 - CanlÄ± MaÃ§ ve Spor YayÄ±nlarÄ± (beIN Sports, S Sport, Tivibu)",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein2.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "TLCtr",
     "name": "TLCtr",
     "version": 1020,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/TLCtr.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/TLCtr.cs3",
     "fileHash": "sha256-50bd32bafbb731ef7ae4d1973f6964ff0e5e2ed41965a110684713b49a99989a",
     "fileSize": 14059,
     "status": 1,
@@ -1005,13 +1005,13 @@
     "description": "TLC tr",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "TRTCanli",
     "name": "TRTCanli",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/TRTCanli.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/TRTCanli.cs3",
     "fileHash": "sha256-45944ab2962a580fc5483dda09d74c5216be368f3abca6814519a5eb9948e169",
     "fileSize": 10183,
     "status": 1,
@@ -1021,13 +1021,13 @@
     "description": "TRT Canlı - Resmi TRT 1, TRT 2, TRT Spor, TRT Spor Yıldız, TRT Haber, TRT Belgesel, TRT Çocuk ve Diğer TRT Kanalları",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/trtspor.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "TurkDizi",
     "name": "TurkDizi",
     "version": 1002,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/TurkDizi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/TurkDizi.cs3",
     "fileHash": "sha256-8e85b003465cf70f4270bf1fd5701815422561d2fcbffbd617bb8694cf637cc8",
     "fileSize": 28937,
     "status": 1,
@@ -1037,13 +1037,13 @@
     "description": "Yerli diziler (Sıfır Bir, Çukur, Kurtlar Vadisi, Eşkıya...) ve geniş dizi arşivi - mntplayer HLS oynatıcı",
     "tvTypes": ["TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal12.com.tr&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "TurkiyeTV",
     "name": "TurkiyeTV",
     "version": 1002,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/TurkiyeTV.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/TurkiyeTV.cs3",
     "fileHash": "sha256-433d89cee9e8c0f2aad0d5574119d61538904fcfab0df5034ec7acb9c22f8454",
     "fileSize": 22059,
     "status": 1,
@@ -1053,13 +1053,13 @@
     "description": "Türkiye TV - TRT ve ulusal kanalların canlı yayın listesi (Free-TV)",
     "tvTypes": ["Live"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=trt1.com.tr&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "TV8",
     "name": "TV8",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/TV8.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/TV8.cs3",
     "fileHash": "sha256-23ae5284e3eb5babfacaf35dab7efffc2e1afb19efdaa8d525885bfd001b1bff",
     "fileSize": 19118,
     "status": 1,
@@ -1069,13 +1069,13 @@
     "description": "TV8 — program ve dizi bölümleri",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tv8.com.tr&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "UltraFilmizle",
     "name": "UltraFilmizle",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/UltraFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/UltraFilmizle.cs3",
     "fileHash": "sha256-f0a8e73f4556c692539580b77108fc2083876703ef7b3f349b7eaafa7e2f0f2c",
     "fileSize": 25570,
     "status": 1,
@@ -1085,13 +1085,13 @@
     "description": "UltraFilmizle — Türkçe dublaj/altyazılı film arşivi",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=ufilmizle.com&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "WebdramaTurkey2",
     "name": "WebdramaTurkey2",
     "version": 1003,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/WebdramaTurkey2.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/WebdramaTurkey2.cs3",
     "fileHash": "sha256-4c226da42960943ac56bfd40b7481c3f0241033eb5c2009ce59507ad316035a2",
     "fileSize": 44363,
     "status": 1,
@@ -1101,13 +1101,13 @@
     "description": "WebdramaTurkey2 Ä°Ã§erikleri",
     "tvTypes": ["AsianDrama", "Movie", "Anime", "Others"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "WebteIzle",
     "name": "WebteIzle",
     "version": 15,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/WebteIzle.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/WebteIzle.cs3",
     "fileHash": "sha256-c5b3acb8acfea2fa48ba34720cc61d3c0baf4ccb27f6a04622974b464da60f83",
     "fileSize": 119188,
     "status": 1,
@@ -1117,13 +1117,13 @@
     "description": "Webte İzle - 1080p Full HD film izleme kaynağı",
     "tvTypes": ["Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "Yabancidizi",
     "name": "Yabancidizi",
     "version": 7,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/Yabancidizi.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/Yabancidizi.cs3",
     "fileHash": "sha256-03f2e63fae8bb3bb960389196ee9e2ec723b001cf41e80f4767c790e9fb37a76",
     "fileSize": 35290,
     "status": 1,
@@ -1133,13 +1133,13 @@
     "description": "Yabancıdizi — yabancidizi.live (dizi, film, anime)",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.live&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "YesilCamTv",
     "name": "YesilCamTv",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/YesilCamTv.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/YesilCamTv.cs3",
     "fileHash": "sha256-352e948c27fa2d577f367df8fd7c4b55d8b80cfdc1b173239910c1285439c4b9",
     "fileSize": 32423,
     "status": 1,
@@ -1149,13 +1149,13 @@
     "description": "YesilCamTv — Türkçe içerik (autopilot)",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=%size%",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
     "internalName": "ZirveSpor",
     "name": "ZirveSpor",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/plugins/ZirveSpor.cs3",
+    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/ZirveSpor.cs3",
     "fileHash": "sha256-65d61fbc420d2ee096361640639822b650ec7ca8d23dbaab16a91f83530ea916",
     "fileSize": 16915,
     "status": 1,
@@ -1165,6 +1165,6 @@
     "description": "ZirveSpor - Canlı beIN Sports 1-5, Max 1-2, S Sport, Tivibu Spor, Smart Spor ve Günlük Maç Yayınları",
     "tvTypes": ["Live"],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein1.png",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main"
+    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   }
 ]
